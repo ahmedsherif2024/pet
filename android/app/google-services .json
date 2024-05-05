@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "80535706366",
+    "project_id": "pharmacy-talk",
+    "storage_bucket": "pharmacy-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80535706366:android:ae61433f0f5b516a6fa3af",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80535706366-1if9g2i4rohml32u5fjm1qv84t6f4dqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pharmacy_talk",
+            "certificate_hash": "792c5977e6fe24023cd0116958663fafe1d85c15"
+          }
+        },
+        {
+          "client_id": "80535706366-dtrhkhsapd9evmga3699tlnhk6cv6061.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq1ZN9AQpy1enEKgAe9aZEOXPWYo_f2cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80535706366-dtrhkhsapd9evmga3699tlnhk6cv6061.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80535706366-douc0ibgp132ommd29rlb4u5fddsrteg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pharmacyTalk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
